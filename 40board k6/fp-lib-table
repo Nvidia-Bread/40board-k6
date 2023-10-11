@@ -1,4 +1,7 @@
 (fp_lib_table
   (lib (name "Kailh_Choc")(type "KiCad")(uri "C:/Users/mike/Documents/GitHub/40board-k6/MX_Alps_Hybrid.pretty/Kailh_Choc.pretty")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "C:/Users/mike/Documents/GitHub/40board-k6/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "C:/Users/mike/Documents/GitHub/40board-k6/marbastlib-6-tested/marbastlib-6-tested/marbastlib-choc.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "C:/Users/mike/Documents/GitHub/40board-k6/marbastlib-6-tested/marbastlib-6-tested/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/mike/Documents/GitHub/40board-k6/marbastlib-6-tested/marbastlib-6-tested/marbastlib-various.pretty")(options "")(descr ""))
 )
